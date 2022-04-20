@@ -1,0 +1,16 @@
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb

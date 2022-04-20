@@ -1,0 +1,294 @@
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Administracion._90000_ConfiguracionSistema.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00100_Articulo.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00101_Abm_Articulo.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00103_Abm_Marca.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00105_Abm_Rubro.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00106_MotivoBajaArticulo.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00107_Abm_MotivoBajaArticulo.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00108_BajaDeArticulos.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00109_NuevaBajaDeArticulos.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00116_CrearArticuloElaborado.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00122_Iva.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00123_Abm_Iva.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00124_ActualizacionPrecios.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00148_Gastos.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00149_Abm_Gastos.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00133_Cheques.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00134_CuentasBancarias.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00135_AbmCuentaBancarias.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00136_DepositarCheque.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00132_ConsultaCompra.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00128_Banco.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00129_Abm_Banco.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00110_Cliente.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00111_Abm_Cliente.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00112_CuentaCorrienteCliente.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00113_PagarCuentaCorrienteCliente.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00114_MotivoCancelacionPago.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00115_Abm_MotivoCancelacionPago.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00126_Abm_CondicionIva.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00127_Compra.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago.FormaPago.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00130_Tarjeta.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00131_Abm_Tarjeta.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpArticulo.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpCliente.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpCuentaBancaria.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpEmpleado.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpFacturas.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpProveedor.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00119_CuentaCorrienteProveedor.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00120_PagarCuentaCorrienteProveedor.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00117_Proveedor.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00118_Abm_Proveedor.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00144_ConsultaRemito.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00145_ConsultaPresupuesto.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00146_ConsultaNotaCredito.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00143_ConsultaVentas.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00142_NotaCredito.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Seguridad._00141_AutorizacionVentas.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00140_Presupuesto.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00137_Remito.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00121_Ventas.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00138_Transporte.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00139_Abm_Transporte.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00147_ComisionesDeVentas.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\EntityFramework.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll.config
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\EntityFramework.xml
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll.config
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00150_ConceptoGastos.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00151_Abm_ConceptoGastos.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00152_AperturaCaja.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00153_ConsultaCaja.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00154_CierreCaja.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.IoC.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\EntityFramework.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Seguridad.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Servicio.Interfaces.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Dominio.Base.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Infraestructura.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Dominio.Entidades.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Servicio.Implementacion.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Conexion.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.IoC.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.IoC.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Seguridad.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Presentacion.Seguridad.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Servicio.Interfaces.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Servicio.Interfaces.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\EntityFramework.xml
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Dominio.Base.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Dominio.Base.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Infraestructura.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Infraestructura.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Dominio.Entidades.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Dominio.Entidades.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Servicio.Implementacion.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Servicio.Implementacion.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Conexion.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Administracion._90000_ConfiguracionSistema.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00100_Articulo.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00101_Abm_Articulo.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00103_Abm_Marca.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00105_Abm_Rubro.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00106_MotivoBajaArticulo.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00107_Abm_MotivoBajaArticulo.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00108_BajaDeArticulos.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00109_NuevaBajaDeArticulos.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00116_CrearArticuloElaborado.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00122_Iva.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00123_Abm_Iva.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00124_ActualizacionPrecios.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00156_Abm_ListaPrecio.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00148_Gastos.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00149_Abm_Gastos.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00150_ConceptoGastos.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00151_Abm_ConceptoGastos.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00152_AperturaCaja.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00153_ConsultaCaja.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00154_CierreCaja.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00133_Cheques.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00134_CuentasBancarias.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00135_AbmCuentaBancarias.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00136_DepositarCheque.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00157_Abm_Cheque.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00132_ConsultaCompra.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00128_Banco.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00129_Abm_Banco.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00110_Cliente.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00111_Abm_Cliente.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00112_CuentaCorrienteCliente.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00113_PagarCuentaCorrienteCliente.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00114_MotivoCancelacionPago.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00115_Abm_MotivoCancelacionPago.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00126_Abm_CondicionIva.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00127_Compra.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago.FormaPago.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00130_Tarjeta.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00131_Abm_Tarjeta.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpArticulo.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpCliente.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpCuentaBancaria.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpEmpleado.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpFacturas.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpProveedor.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00119_CuentaCorrienteProveedor.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00120_PagarCuentaCorrienteProveedor.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00117_Proveedor.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00118_Abm_Proveedor.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00144_ConsultaRemito.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00145_ConsultaPresupuesto.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00146_ConsultaNotaCredito.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00143_ConsultaVentas.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00142_NotaCredito.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Seguridad._00141_AutorizacionVentas.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00140_Presupuesto.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00137_Remito.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00121_Ventas.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00138_Transporte.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00139_Abm_Transporte.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00147_ComisionesDeVentas.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.IoC.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Servicio.Interfaces.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\StructureMap.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Dominio.Base.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Infraestructura.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Dominio.Entidades.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Servicio.Implementacion.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.Conexion.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.IoC.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.IoC.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Presentacion.Seguridad.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Servicio.Interfaces.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Servicio.Interfaces.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Dominio.Base.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Dominio.Base.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Infraestructura.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Infraestructura.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Servicio.Implementacion.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Servicio.Implementacion.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.Conexion.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\bin\Debug\Aplicacion.Conexion.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Administracion._90000_ConfiguracionSistema.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00100_Articulo.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00101_Abm_Articulo.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00103_Abm_Marca.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00105_Abm_Rubro.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00106_MotivoBajaArticulo.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00107_Abm_MotivoBajaArticulo.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00108_BajaDeArticulos.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00109_NuevaBajaDeArticulos.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00116_CrearArticuloElaborado.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00122_Iva.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00123_Abm_Iva.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00124_ActualizacionPrecios.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00156_Abm_ListaPrecio.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00148_Gastos.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00149_Abm_Gastos.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00150_ConceptoGastos.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00151_Abm_ConceptoGastos.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00152_AperturaCaja.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00153_ConsultaCaja.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00154_CierreCaja.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00133_Cheques.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00134_CuentasBancarias.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00135_AbmCuentaBancarias.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00136_DepositarCheque.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cheque._00157_Abm_Cheque.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00132_ConsultaCompra.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00128_Banco.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00129_Abm_Banco.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00110_Cliente.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00111_Abm_Cliente.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00112_CuentaCorrienteCliente.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00113_PagarCuentaCorrienteCliente.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00114_MotivoCancelacionPago.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00115_Abm_MotivoCancelacionPago.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00126_Abm_CondicionIva.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00127_Compra.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago.FormaPago.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00130_Tarjeta.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00131_Abm_Tarjeta.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpArticulo.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpCliente.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpCuentaBancaria.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpEmpleado.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpFacturas.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.LookUp.LookUpProveedor.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00119_CuentaCorrienteProveedor.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00120_PagarCuentaCorrienteProveedor.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00117_Proveedor.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00118_Abm_Proveedor.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00144_ConsultaRemito.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00145_ConsultaPresupuesto.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00146_ConsultaNotaCredito.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Compra._00143_ConsultaVentas.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00142_NotaCredito.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Seguridad._00141_AutorizacionVentas.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00140_Presupuesto.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00137_Remito.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00121_Ventas.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00138_Transporte.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00139_Abm_Transporte.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Venta._00147_ComisionesDeVentas.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00306_Abm_UnidadMedida.resources

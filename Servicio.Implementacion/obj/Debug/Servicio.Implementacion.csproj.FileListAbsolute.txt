@@ -1,0 +1,73 @@
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.dll.config
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.dll
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.pdb
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\bin\Debug\EntityFramework.dll
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\bin\Debug\EntityFramework.xml
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.csprojAssemblyReference.cache
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.dll
+F:\CodigoFuenteCad\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Aplicacion.Constantes.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Dominio.Base.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Dominio.Entidades.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\EntityFramework.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Infraestructura.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Interfaces.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\StructureMap.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Aplicacion.Conexion.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Aplicacion.Constantes.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Dominio.Base.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Dominio.Base.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Dominio.Entidades.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Dominio.Entidades.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Infraestructura.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Infraestructura.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Interfaces.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Servicio.Interfaces.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\EntityFramework.xml
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Aplicacion.Conexion.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Servicio.Implementacion.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Dominio.Base.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Dominio.Entidades.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\EntityFramework.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Infraestructura.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Servicio.Interfaces.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\StructureMap.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Aplicacion.Conexion.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Dominio.Base.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Dominio.Base.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Infraestructura.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Infraestructura.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Servicio.Interfaces.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Servicio.Interfaces.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\EntityFramework.xml
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Aplicacion.Conexion.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\bin\Debug\Aplicacion.Conexion.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.csprojAssemblyReference.cache
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.csproj.CopyComplete
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Servicio.Implementacion\obj\Debug\Servicio.Implementacion.pdb

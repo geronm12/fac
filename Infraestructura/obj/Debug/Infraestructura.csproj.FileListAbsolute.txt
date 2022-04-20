@@ -1,0 +1,70 @@
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+F:\CodigoFuenteCad\X-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Aplicacion.Conexion.dll
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Dominio.Base.dll
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Dominio.Entidades.dll
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Aplicacion.Conexion.pdb
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Dominio.Base.pdb
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Dominio.Base.dll.config
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Dominio.Entidades.pdb
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Dominio.Entidades.dll.config
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+D:\Codigo Fuente\X-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Codigo Fuente\X-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+D:\Codigo Fuente\X-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+D:\Codigo Fuente\X-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+D:\Codigo Fuente\X-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+D:\Codigo Fuente\X-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoCore.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Aplicacion.Conexion.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Dominio.Base.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Dominio.Entidades.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Aplicacion.Conexion.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Aplicacion.Conexion.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Dominio.Base.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Dominio.Base.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoCore.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.Migrations.Update.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.Migrations.updateUltimoMomento.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.Migrations.correcciondelUltimoUpdate.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.Migrations.UpdateaArticulo.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.Migrations._decimal.resources
+C:\Users\Gusta\OneDrive\Documentos\Proyectos VS C#\X-Commerce-DAUD-al 08-10-2019\Infraestructura\obj\Debug\Infraestructura.Migrations.Lacoscuarmani.resources
